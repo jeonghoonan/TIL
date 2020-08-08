@@ -1,6 +1,6 @@
 # Today I Learned
 ## JAVA
- * Chapter 2
+ * Chapter 2 (Java Basic)
  
     * [Variable](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.01.Variable.md)
     * [DataType](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.02.DataType.md)
@@ -11,7 +11,8 @@
     * [Arrays](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.07.Array.md)
     * [N-D Arrays](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.08.NDArrays.md)
     * [Strings](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.09.Strings.md) 
-* Chapter 3 
+    
+* Chapter 3 (OOP)
 
     * [OOP Basic](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter3/Ch03.01.OOPBasic.md)
     * [Class](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter3/Ch03.02.Class.md)
