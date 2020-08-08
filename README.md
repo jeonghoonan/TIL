@@ -2,7 +2,7 @@
 ## JAVA
  * Chapter 2
  
-    * Variable(https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.01.Variable.md)
+    * [Variable](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.01.Variable.md)
     * DataType(https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.02.DataType.md)
     * Input & Output(https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.03.InputOutput.md)
     * Operators(https://github.com/jeonghoonan/TIL/blob/master/java/Chapter2/Ch02.04.Operators.md)
