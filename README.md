@@ -20,6 +20,11 @@
 * [Inheritence](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter3/Ch03.04.Inheritence.md)
 * [Package](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter3/Ch03.05.Package.md)
 * [Modifier](https://github.com/jeonghoonan/TIL/blob/master/java/Chapter3/Ch03.06.Modifier.md)
+* [Polymorphism](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter3/Ch03.07.Polymorphism.md)
+
+### Chapter 4 (OOP_Advanced)
+
+* [Abstract](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter4/Ch04.01.Abstract.md)
 
 ## GIT
 
