@@ -25,6 +25,8 @@
 ### Chapter 4 (OOP_Advanced)
 
 * [Abstract](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter4/Ch04.01.Abstract.md)
+* [Interface](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter4/Ch04.02.Interface.md)
+* [Enumeration](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter4/Ch04.03.Enumeration.md)
 
 ## GIT
 
