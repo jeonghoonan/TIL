@@ -11,6 +11,7 @@
 * [Arrays](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter2/Ch02.07.Array.md)
 * [N-D Arrays](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter2/Ch02.08.NDArrays.md)
 * [Strings](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter2/Ch02.09.Strings.md) 
+* [Memory](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter2/Memory.md)
     
 ### Chapter 3 (OOP)
 
