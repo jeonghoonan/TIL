@@ -36,15 +36,4 @@
 * [Wrapper Class](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter5/Ch05.01.Wrapper.md)
 * [HandlingException](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter5/Ch05.02.HandlingExceptions.md)
 
-## GIT
-
-* [GIT](https://github.com/jeonghoonan/TIL/tree/master/TIL/Git-Github)
-
-## Network
-
-* [Network](https://github.com/jeonghoonan/TIL/blob/master/TIL/Network/ServerSystemInfrastructure.md)
-
-## HTML & CSS
-
-* [HTML](https://github.com/jeonghoonan/TIL/blob/master/TIL/HTML%26CSS/HTML.md)
-* [CSS](https://github.com/jeonghoonan/TIL/blob/master/TIL/HTML%26CSS/CSS.md)
+## [NonJAVA](https://github.com/jeonghoonan/TIL/tree/master/TIL/nonJava)
