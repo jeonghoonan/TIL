@@ -1,6 +1,6 @@
 package part4;
 
-public class Array1 {
+public class Array {
 
     public static void main (String[] args) {
         int[] array1 = new int[100];
