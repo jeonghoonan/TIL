@@ -1,6 +1,6 @@
 package part4;
 
-public class UseArray2 {
+public class UseArray {
     public static void main(String[] args) {
         int[] iarray = new int[100]; // 100개를 담을수 있는거 선언
         iarray[0] = 1;
