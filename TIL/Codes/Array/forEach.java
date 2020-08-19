@@ -7,7 +7,7 @@ package part4;
  *
  */
 
-public class forEach4 {
+public class forEach {
     public static void main(String[] args) {
         int[] iarr = {10,20,30,40,50};
 
