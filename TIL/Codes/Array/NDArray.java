@@ -5,7 +5,7 @@ package part4;
  * 2 차원 배열은 크기가 다른것도 생성 가능
  */
 
-public class NDArray3 {
+public class NDArray {
     public static void main(String[] args) {
         int[][] array4 = new int[3][4]; // 배열의 크기 지정. 정수를 4개씩 담을수 있는 배열 3개 생성
         array4[0][1] = 10; // 그냥 array4[10] 은 안된다.
