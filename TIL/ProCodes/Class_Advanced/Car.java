@@ -13,7 +13,7 @@ package Class_Advanced;
  *
  */
 
-public class Car {
+class Car {
     // 타입 필드명
     String name;
     int number;
@@ -40,6 +40,24 @@ public class Car {
          * 매개변수의 값을 필드에 대입하라는 의미
          */
     }
+
+    /**
+     * 생성자 오버로딩과 this
+     * 생성자도 메소드와 마찬가지로 여러개를 선언할수있다
+     * 매개변수의 수와 타입이 다르다면 여러개의 생성자를 선언할수있다
+     *      this 괄호 열고로 시작하면 자신의 생성자를 호출하는것이다
+     *      자기 자신의 생성자를 호출함으로써 비슷한 코드가 중복되서 나오는것을 방지할수있다다     */
+
+    public Car() { // 기본생성자
+//        this.name = "이름없음";
+//        this.number = 0;
+        this("이름없음", 0);
+    }
+
+    public Car(String name, int number) {
+        this.name = name;
+        this.number = number;
+    }
 }
 
 class CarExam {
@@ -49,7 +67,14 @@ class CarExam {
         Car c3 = new Car("구급차");
 
         System.out.println(c2.name); // 소방차
+    }
+}
 
+class CarExam3 {
+    public static void main(String[] args) {
+        Car c1 = new Car("소방차");
+        Car c2 = new Car(); // 기본생성자로 Car를 만든다
+        Car c3 = new Car("구급차", 1111);
     }
 }
 
@@ -63,3 +88,11 @@ class CarExam {
 //        this.name = name;
 //    }
 //}
+
+/**
+ * 패키지
+ *  이름은 보통 도메인 이름을 거꾸로 적은후, 그 뒤에 프로젝트 이름을 붙인다.
+ *  프로젝트 이름뒤에 또 다른 이름이 나올수 있다
+ * java.lang패키지를 제외하고 다른 패키지에 있는 클래스를 사용하려면 import 라는 구문을 적어야한다
+ *
+ */
