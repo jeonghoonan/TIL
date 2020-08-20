@@ -8,8 +8,6 @@ package part5;
  *          정수형 : byte, short, int, long
  *          실수형 : float, double
  *
- *      참조형 타입
- *          기본형 타입을 제외한 모든 타입
  */
 
 /**

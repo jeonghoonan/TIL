@@ -6,7 +6,7 @@ package part5;
  *  new 라는 키워드를 사용하지 않아도, 인스턴스를 만들수있음
  *      String 은 메모리를 아끼려면 new 를 사용하지 않는게 좋다
  *  String 은 불변 클래스
- *      불변이란 String이 인스턴스가 될때 가지고 있던 값을 나주엥 수정 불가 
+ *      불변이란 String이 인스턴스가 될때 가지고 있던 값을 나중에 수정 불가
  */
 
 public class StringClass {
