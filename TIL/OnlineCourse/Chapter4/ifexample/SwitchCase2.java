@@ -33,3 +33,4 @@ public class SwitchCase2 {
         System.out.println(month + "월은 " + day + "일 입니다");
     }
 }
+
