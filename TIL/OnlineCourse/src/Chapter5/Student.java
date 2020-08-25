@@ -1,10 +1,24 @@
 package Chapter5;
 
+/**
+ * 오버로딩
+ */
+
 public class Student {
 
     int studentID;
     String studentName;
     String address;
+
+    public Student(String name) {
+        studentName = name;
+    }
+
+    public Student(int id, String name) {
+        studentID = id;
+        studentName = name;
+        address = "주소없음";
+    }
 
     public void showStudentInfo() {
         System.out.println(studentName + "," + address);
@@ -25,20 +39,20 @@ public class Student {
 class StudentTest {
     public static void main(String[] args) {
 
-        Student studentLee = new Student();
-        studentLee.studentName = "이순신";
+        Student studentLee = new Student("이순신");
+//        studentLee.studentName = "이순신";
         studentLee.address = "서울";
 
         studentLee.showStudentInfo();
 
-        Student studentKim = new Student();
-        studentKim.studentName = "김유신";
-        studentKim.address = "경주";
+        Student studentKim = new Student(100, "김유신");
+//        studentKim.studentName = "김유신";
+//        studentKim.address = "경주";
 
         studentKim.showStudentInfo();
 
-        System.out.println(studentLee);
-        System.out.println(studentKim);
+//        System.out.println(studentLee);
+//        System.out.println(studentKim);
     }
 }
 
