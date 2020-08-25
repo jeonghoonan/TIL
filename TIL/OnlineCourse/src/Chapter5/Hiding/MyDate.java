@@ -53,6 +53,9 @@ class MyDateTest {
         date.setDay(10);
 
         date.showDate();
+
+        MyDate date2 = new MyDate();
+        date2.setYear(2002);
     }
 }
 
