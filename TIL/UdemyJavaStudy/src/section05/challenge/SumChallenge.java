@@ -1,5 +1,9 @@
 package section05.challenge;
 
+/**
+ * Sum3 and 5 Challenge
+ */
+
 public class SumChallenge {
     public static void main(String[] args) {
 
@@ -18,6 +22,5 @@ public class SumChallenge {
             }
         }
         System.out.println("Sum = " + sum);
-
     }
 }
