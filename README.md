@@ -19,7 +19,7 @@
 * [Class](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter3/Ch03.02.Class.md)
 * [Method](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter3/Ch03.03.Method.md)
 * [Inheritence](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter3/Ch03.04.Inheritence.md)
- * [Static/Instance](https://github.com/jeonghoonan/TIL/blob/master/TIL/UdemyJavaStudy/src/section06/09.31.md)
+  * [Static/Instance](https://github.com/jeonghoonan/TIL/blob/master/TIL/UdemyJavaStudy/src/section06/09.31.md)
 * [Package](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter3/Ch03.05.Package.md)
 * [Modifier](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter3/Ch03.06.Modifier.md)
 * [Polymorphism](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter3/Ch03.07.Polymorphism.md)
