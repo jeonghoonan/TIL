@@ -26,7 +26,7 @@ class PersonTest {
 
         System.out.println("나이 : " + person.age);
         System.out.println("이름 : " + person.name);
-        System.out.println("결혼여부 : " + person.marriage);
+        System.out.println("결혼여부 : " + true);
         System.out.println("자녀수 : " + person.children);
     }
 }
