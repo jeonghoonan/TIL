@@ -1,7 +1,7 @@
 09-11-20
 
 # 자료형(Data Types)
-![img](Datatype.png)
+![img](imgfiles/Datatype.png)
 
 ## 구조
 * 원시 자료형(Primitive)

@@ -2,8 +2,8 @@
 
 # 관계연산자
 
-![img](Operator.png)
+![img](imgfiles/Operator.png)
 
 # 논리연산자
 
-![img](LogicOperator.png)
+![img](imgfiles/LogicOperator.png)
