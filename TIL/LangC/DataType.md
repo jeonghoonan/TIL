@@ -1,13 +1,13 @@
 09-11-20
 
 # 자료형(Data Types)
+![img](Datatype.png)
 
 ## 구조
 * 원시 자료형(Primitive)
-    * char
-    * int
-    * float
-    * double
+    * 문자형 (char)
+    * 정수형 (short, int, long)
+    * 실수형 (float, double)
     * void
     
 * C언어에서는...
