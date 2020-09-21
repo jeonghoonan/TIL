@@ -18,6 +18,7 @@
         * %d, %f, %lf
     * 자료형 없음 : void
     * 문자열 저장하는 String자료형이 없고, char 만 사용
+    * 상수를 사용하는 방법은 변수앞에 const 를 붙여준다 
     
 * 파생 자료형(Derived)
     * Array
