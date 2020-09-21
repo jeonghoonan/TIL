@@ -1,4 +1,4 @@
-09-11-20
+09-11-20 / 09-21 
 
 # 자료형(Data Types)
 ![img](imgfiles/DataType1.PNG)
@@ -13,7 +13,9 @@
     
 * C언어에서는...
     * 문자를 표현 : char 
+        * scanf("%s", char, sizeof(char)); // sizeof 는 ___개의 문자만 받겠다고 해서 사용한다 
     * 숫자 표현 : int, float, double 
+        * %d, %f, %lf
     * 자료형 없음 : void
     * 문자열 저장하는 String자료형이 없고, char 만 사용
     
