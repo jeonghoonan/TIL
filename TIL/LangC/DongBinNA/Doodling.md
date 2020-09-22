@@ -34,3 +34,12 @@
 * Standard Library     
 * declaration of malloc() and free()
 * contains 'Memory Allocation/Freeing' functions
+
+### scanf vs scanf_s
+* scanf: Reads formatted data from the standard input stream
+    * scanf originally just reads whatever console input you type and assign it to a type of variable.
+* scanf_s: Reads formatted data from the standard input stream. But safer than scanf ()
+    * scanf_s has an parameter, When you read a string, the parameter must be provided to indicate how many characters are read at most to prevent overflow.
+    
+### srand 
+* srand() function pseudo random number generator used by the rand() function    
