@@ -10,7 +10,7 @@
 * 리눅스의 기본은 터미널(콘솔) 이다 
 * [출처](https://terms.naver.com/entry.nhn?docId=1180044&cid=40942&categoryId=32839)
 
-## file & directory
+## File & Directory
 * ls 
     * 현재 디렉토리의 파일 목록을 출력하는 명령어 
 * pwd
