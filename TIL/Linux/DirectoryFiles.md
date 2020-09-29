@@ -50,6 +50,7 @@
 * 다른 에디터인 vim 보다는 쓰기가 엄청 편하다 
     * 설치후 실행하면 설명이 잘 되어있다     
 * 단축키
+
     ![](img/nanoShortcuts.png)    
 [출처](https://zetawiki.com/wiki/Nano_단축키)
 * 맥에서 nano 이용시 잘나내기 하는 법
@@ -85,3 +86,24 @@
             brew install htop
             htop
             brew remove htop             
+            
+## GUI VS CLI
+* 운영 체제는 사용자와 하드웨어 구성 요소 간의 인터페이스이다
+* 운영 체제는 사용자가 작업을 수행할수 있도록 GUI / CLI 를 제공한다
+* GUI 는 컴퓨터와 상호 작용할수있는 컨트롤 또는 위젯으로 구성된다
+* CLI 를 사용하는 경우 사용자는 작업을 수행하기 위해 명령을 입력해야한다 
+* GUI 는 사용자에게 친숙하지만 CLI 에서는 실행 속도가 더 빠르다 
+
+### GUI (Graphical User Interface)
+* 그래픽 사용자 인터페이스             
+* Windows, 아이콘, 레이블, 텍스트 상자 밑 라디오 단추와 같은 구성 요소를 사용해 사용자가 컴퓨터와 상호작용 할수 있게 한다 
+* 아이콘을 쉽게 클릭하고 마우스를 사용해 객체를 끌어다 놓을수 있다 
+* Windows 및 Linux 와 같은 운영체제는 GUI 를 제공한다 
+    * 창, 아이콘, 검색 창, 메뉴, 드롭 다운 목록 등등 이 있다 
+    
+### CLI(Command Line Interface)   
+* 명령 행 인터페이스
+* 명령 언어 인터프리터, 콘솔/문자 사용자 인터페이스, 사용자가 터미널에 명령을 입력해 작업을 수행할수 있다 
+* 사용자가 명령을 입력하고 "enter" 키를 누르면 터미널 또는 쉘이 해당 명령을 해석하고 터미널에 응답을 표시한다 
+
+[출처](https://ko.strephonsays.com/difference-between-gui-and-cli) 
