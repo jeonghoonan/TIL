@@ -49,4 +49,39 @@
     * 윈두우 에서는 정식 포트버전이 있어서 압축한뒤 실행하면 된다 
 * 다른 에디터인 vim 보다는 쓰기가 엄청 편하다 
     * 설치후 실행하면 설명이 잘 되어있다     
-        
+* 단축키
+    ![](img/nano%20shortcut.png)    
+[출처](https://zetawiki.com/wiki/Nano_단축키)
+* 맥에서 nano 이용시 잘나내기 하는 법
+    * esc + 6 누르고 방향키 -> ctrl k -> ctrl u
+
+09-29-20
+
+## 패키지 매니저 
+* 스마트폰 앱스토어와 같이 유용한 프로그램들을 받을수 있는 툴이다 
+* 리눅스 버젼마다 다른 패키지 매니저를 사용하는 경우도 있다 
+* ls / mkdir 등등 기본적으로 내장되어 있는 것들도 있다 
+ 
+### 패키지 매니저로 프로그램 설치하기 
+* 프로그램 목록 최신화 
+    * (sudo) apt-get update
+* 프로그램 목록중 htop(프로그램) 키워드로 검색하기 
+    * (sudo) apt-cache search htop
+* 프로그램 설치하기
+    * (sudo) apt-get install htop
+* 프로그램 실행하기 
+    * (sudo) htop
+* 프로그램 삭제하기 
+    * (sudo) apt-get remove htop   
+* [출처](https://siyoon210.tistory.com/65)      
+      
+#### 맥에서는!
+* 터미널에서 이용하려면 (sudo) apt-get 대신 brew 를 사용해야 한다 
+    * apt, yum 이란 패키지가 없다 
+* 위에 부분들을 터미널에서 이용시에 : 
+
+            brew update;
+            brew search htop
+            brew install htop
+            htop
+            brew remove htop             
