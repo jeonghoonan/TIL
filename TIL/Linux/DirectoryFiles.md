@@ -86,7 +86,6 @@
             brew install htop
             htop
             brew remove htop             
-<<<<<<< HEAD
             
 ## GUI VS CLI
 * 운영 체제는 사용자와 하드웨어 구성 요소 간의 인터페이스이다
