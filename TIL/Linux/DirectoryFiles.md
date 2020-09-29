@@ -50,6 +50,7 @@
 * 다른 에디터인 vim 보다는 쓰기가 엄청 편하다 
     * 설치후 실행하면 설명이 잘 되어있다     
 * 단축키
+
     ![](img/nanoShortcuts.png)    
 [출처](https://zetawiki.com/wiki/Nano_단축키)
 * 맥에서 nano 이용시 잘나내기 하는 법
