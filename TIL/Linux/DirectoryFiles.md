@@ -118,7 +118,7 @@
 ## Input & Output Redirection
 ![img](img/Redirection.png)
 [출처](http://slideplayer.com/slide/5126304)
-* I/O Redirection 은 명령 실행의 방향 지정이라고 할수있다 
+* I/O Redirection 은 명령 행의 방향 지정이라고 할수있다 
     * Input 과 Output 인 입출력에 관련된 방향지정이다 
     * 사용하는 기호는 '>'  이다 
         * '>'  기호를 사용하게 되면 왼쪽 값을 오른쪽에 넣는것을 의미한다 
@@ -156,4 +156,5 @@
     * 사용자가 내린 명령을 커널부분에 일할수 있도록 번역해주는 프로그램이 필요하고 이 역활을 하는것이 쉘이다 
     
 [출처](https://haloworld.tistory.com/63)    
-    
+
+## Shell Script 
