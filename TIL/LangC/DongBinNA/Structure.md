@@ -1,4 +1,4 @@
-09-18-20
+09-18-20 / 10-0
 
 # 구조체 (Structure)
 
@@ -32,4 +32,15 @@
             printf("이름 : %s\n", s.name);
             printf("학점 : %.1f\n", s.grade);
             return 0;
-        }        
+        }       
+        
+* typedef : 자료형을 정의 하는 것이다 
+    * int 나 float 와 같은 자료형을 원하는 대로 정의를 할수있다(한국어도 가능)                 
+
+
+        ex) int i = 1;
+            typedef int 정수;
+            typedef float 실수;
+            정수 정수변수 = 3;
+            실수 실수변수 = 3.23f;
+            printf("정수변수 : %d, 실수변수 : %.2f", 정수변수, 실수변수);    
