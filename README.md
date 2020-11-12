@@ -40,4 +40,6 @@
 ## Others
 
 * [C_Lang](https://github.com/jeonghoonan/TIL/tree/master/TIL/LangC/DongBinNA)
-* [Directory](https://github.com/jeonghoonan/TIL/tree/master/TIL/nonJava)
+* [HTML&CSS](https://github.com/jeonghoonan/TIL/tree/master/TIL/nonJava/HTML%26CSS)
+* [Git&GitHub](https://github.com/jeonghoonan/TIL/tree/master/TIL/nonJava/Git%26Github)
+* [Network](https://github.com/jeonghoonan/TIL/tree/master/TIL/nonJava/Network)
