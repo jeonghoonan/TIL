@@ -39,5 +39,5 @@
 
 ## C
 
-* [C_Lang] (https://github.com/jeonghoonan/TIL/tree/master/TIL/LangC/DongBinNA)
+* [C_Lang](https://github.com/jeonghoonan/TIL/tree/master/TIL/LangC/DongBinNA)
 * [Directory](https://github.com/jeonghoonan/TIL/tree/master/TIL/nonJava)
