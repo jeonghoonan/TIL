@@ -37,7 +37,7 @@
 * [Wrapper Class](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter5/Ch05.01.Wrapper.md)
 * [HandlingException](https://github.com/jeonghoonan/TIL/blob/master/TIL/java/Chapter5/Ch05.02.HandlingExceptions.md)
 
-## C
+## Others
 
 * [C_Lang](https://github.com/jeonghoonan/TIL/tree/master/TIL/LangC/DongBinNA)
 * [Directory](https://github.com/jeonghoonan/TIL/tree/master/TIL/nonJava)
